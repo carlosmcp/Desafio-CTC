@@ -65,7 +65,7 @@ Abaixo, temos uma tabela do ambiente de execução do benchmarking de teste da a
 | Sistema Operacional| 20.04.1-Ubuntu x86_64 GNU/Linux           |
 
 
- O tempo de processamento nesta configuração alcançou o tempo de **01:51:20.474**
+ O tempo de processamento nesta configuração alcançou o marca de **01:51:20.474**
 
 
 
